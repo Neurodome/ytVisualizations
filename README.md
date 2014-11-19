@@ -16,6 +16,6 @@ Videos:
 iPython notebooks:
 <ul>
   <li>
-    <a href =http://nbviewer.ipython.org/github/Neurodome/ytVisualizations/blob/master/stereoscopic%203D%20render.ipynb>Stereoscopic Render</a>
+    <img src=<https://i.ytimg.com/vi/KZLQK7QLRhU/mqdefault.jpg> <a href =http://nbviewer.ipython.org/github/Neurodome/ytVisualizations/blob/master/stereoscopic%203D%20render.ipynb>  Stereoscopic Render</a>  
   </li>
 </ul>
