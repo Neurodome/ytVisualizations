@@ -18,4 +18,7 @@ iPython notebooks:
   <li>
     <a href =http://nbviewer.ipython.org/github/Neurodome/ytVisualizations/blob/master/stereoscopic%203D%20render.ipynb>  Stereoscopic Render</a>  
   </li>
+  <li>
+    <a href =http://nbviewer.ipython.org/github/Neurodome/ytVisualizations/blob/master/stereoscopic%203D%20render.ipynb>  yt CT Viz</a>  
+  </li>
 </ul>
